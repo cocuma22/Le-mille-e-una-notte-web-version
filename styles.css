@@ -1,0 +1,41 @@
+iframe {
+	display: block;
+	margin: auto;
+	border-style: solid;
+	border-color: #541D02;
+	border-width: 5px;
+	border-radius: 20px;
+}
+
+h1, h2 {
+	font-family: 'Titlefont', arial, serif; 
+	color: #0A0181;
+	text-align: center;
+}
+
+h1 {
+	font-size: 5em;
+	margin-top: 2em;
+}
+
+h2 {
+	font-size: 3em;
+	margin-top: 3em;
+}
+
+p {
+	font-family: 'Baskerville', arial, serif; 
+	color: #0A0181;
+	font-size: 1.2em;
+	margin-right: 2em; 
+	margin-left: 2em;
+}
+
+@font-face {
+	font-family: 'Titlefont';
+	src: url('/data/Gloss_And_Bloom.ttf') format('truetype');;
+}
+
+body {
+	background-color: #ffffd4;
+}
