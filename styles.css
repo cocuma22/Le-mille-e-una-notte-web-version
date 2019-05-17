@@ -1,9 +1,9 @@
 iframe {
 	display: block;
 	margin: auto;
-	border-style: solid;
-	border-color: #541D02;
-	border-width: 5px;
+	border-style: dotted;
+	border-color: #0A0181;
+	border-width: 2px;
 	border-radius: 20px;
 }
 
@@ -15,18 +15,18 @@ h1, h2 {
 
 h1 {
 	font-size: 5em;
-	margin-top: 2em;
+	margin-top: 1em;
 }
 
 h2 {
 	font-size: 3em;
-	margin-top: 3em;
+	margin-top: 1.5em;
 }
 
 p {
-	font-family: 'Baskerville', arial, serif; 
+	font-family: 'Neucha', cursive;  
 	color: #0A0181;
-	font-size: 1.2em;
+	font-size: 1.3em;
 	margin-right: 2em; 
 	margin-left: 2em;
 }
@@ -37,5 +37,5 @@ p {
 }
 
 body {
-	background-color: #ffffd4;
+	background-color: #ffffff;
 }
