@@ -33,7 +33,7 @@ p {
 
 @font-face {
 	font-family: 'Titlefont';
-	src: url('/data/Gloss_And_Bloom.ttf') format('truetype');;
+	src: url('../data/Gloss_And_Bloom.ttf') format('truetype');;
 }
 
 body {
